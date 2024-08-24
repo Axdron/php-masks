@@ -1,0 +1,16 @@
+{
+    "name": "axdron/php-masks",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Axdron\\PhpMasks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ramiro",
+            "email": "axdron@hotmail.com"
+        }
+    ],
+    "require": {}
+}
